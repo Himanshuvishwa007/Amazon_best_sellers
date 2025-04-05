@@ -65,7 +65,7 @@ The dataset includes various attributes such as:
 ## 📎 Project Link
 
 🔗 [LinkedIn Post](https://www.linkedin.com/in/himanshu-vishwakarma-40294924a/)  
-🔗 [View Full Notebook on GitHub]([https://github.com/Himanshuvishwa007/Amazon_best_sellers](https://github.com/Himanshuvishwa007/Amazon_best_sellers/blob/main/Best_seller.ipynb))
+🔗 [View Full Notebook on GitHub](https://github.com/Himanshuvishwa007/Amazon_best_sellers](https://github.com/Himanshuvishwa007/Amazon_best_sellers/blob/main/Best_seller.ipynb))
 
 ---
 
